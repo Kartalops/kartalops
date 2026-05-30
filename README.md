@@ -9,7 +9,7 @@
 <br /><br />
 
 <a href="mailto:hi@arvuno.xyz">
-  <img src="https://img.shields.io/badge/Contact-oguzkartal15%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-hi@arvuno.xyz-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
