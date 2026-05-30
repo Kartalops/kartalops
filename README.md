@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<a href="mailto:oguzkartal15@gmail.com">
+<a href="mailto:hi@arvuno.xyz">
   <img src="https://img.shields.io/badge/Contact-oguzkartal15%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
