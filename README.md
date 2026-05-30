@@ -102,19 +102,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arvuno&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvuno&layout=compact&hide_border=true&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arvuno&theme=tokyonight" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=Arvuno&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arvuno&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arvuno&theme=tokyonight" />
 
-</div>
+<br /><br />
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:2563eb,100:0f172a" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arvuno&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arvuno&theme=tokyonight&utcOffset=3" />
 
 </div>
