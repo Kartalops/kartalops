@@ -1,55 +1,120 @@
-# Arvuno
+<div align="center">
 
-### Talking to servers so you don't have to.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Arvuno&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Talking%20to%20servers%20so%20you%20don't%20have%20to.&descSize=18&descAlignY=58" />
 
-DevOps & Product Architect building agentic systems, automation tools, developer workflows and infrastructure products.
+<br />
 
-[![Website](https://img.shields.io/badge/Website-arvuno.xyz-black?style=for-the-badge&logo=firefox)](https://arvuno.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Arvuno-181717?style=for-the-badge&logo=github)](https://github.com/Arvuno)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=DevOps+%26+Product+Architect;Agentic+Systems+Builder;CLI+%2B+MCP+%2B+Infrastructure+Tools;Automation+for+people+who+ship" />
 
----
+<br /><br />
 
-## What I build
+<a href="mailto:oguzkartal15@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-oguzkartal15%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-`agentic systems` · `DevOps tools` · `MCP servers` · `CLI products` · `automation` · `infra workflows`
-
----
-
-## Focus
-
-I build practical systems that turn messy infrastructure, developer operations and product ideas into clean, usable tools.
-
-Currently exploring:
-
-- AI-assisted DevOps and server operations
-- Local-first MCP tooling
-- CLI-first productivity systems
-- Agent-powered developer workflows
-- Infrastructure automation and productized internal tools
-
----
-
-## Featured work
-
-| Project | What it does |
-|---|---|
-| **Cheri CLI** | CLI-first collaborative workspace sync tool |
-| **Shelby MCP** | Local-first MCP server with sandboxed file access |
-| **KOMU CLI** | AI-powered SSH operations assistant |
-| **BaseJump** | AI-ready recipes and workflows for Base apps |
-
----
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,redis,python,ts,nodejs,react,nextjs,go,bash,githubactions,cloudflare" />
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Building tools for people who ship.
+### Building practical tools for agents, servers and developer workflows.
+
+<br />
+
+<img src="https://img.shields.io/badge/Focus-Agentic%20Systems-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-DevOps%20Automation-0891b2?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-MCP%20Servers-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-CLI%20Products-0f766e?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Infrastructure%20Tools-334155?style=flat-square" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Cheri CLI</h3>
+      <p>CLI-first collaborative workspace sync tool built around teams, file operations and task-based folder sync.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/CLI-0f172a?style=flat-square&logo=gnubash" />
+        <img src="https://img.shields.io/badge/Cloudflare-1f2937?style=flat-square&logo=cloudflare" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🧩 Shelby MCP</h3>
+      <p>Local-first MCP server with sandboxed file access, provider modes and editor integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/MCP-4c1d95?style=flat-square" />
+        <img src="https://img.shields.io/badge/Local--first-065f46?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🖥️ KOMU CLI</h3>
+      <p>AI-powered SSH operations assistant for safer natural-language server management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/SSH-1e293b?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%20Ops-0e7490?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚀 BaseJump</h3>
+      <p>AI-ready recipes, templates, tools and MCP-powered workflows for building on Base faster.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript" />
+        <img src="https://img.shields.io/badge/Base-0052ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/Templates-334155?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,postgres,redis,python,ts,nodejs,react,nextjs,go,bash,githubactions,cloudflare" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx" />
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python" />
+
+</div>
+
+---
+
+## GitHub Signal
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arvuno&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvuno&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=Arvuno&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:2563eb,100:0f172a" />
 
 </div>
