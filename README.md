@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Arvuno banner" width="100%" />
+  <img src="github_banner_2.png" alt="Arvuno banner" width="100%" />
 </p>
 
 <h1 align="center">Arvuno</h1>
