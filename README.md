@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="github_banner_2.png" alt="Arvuno banner" width="100%" />
-</p>
-
-<h1 align="center">Arvuno</h1>
+<h1 align="center">KartalOps</h1>
 
 <p align="center">
   <strong>DevOps & Product Architect</strong><br/>
