@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/kartal-symbol-white.png" width="72" alt="Kartal Symbol" />
+</p>
+
 <h1 align="center">KartalOps</h1>
 
 <p align="center">
@@ -13,12 +17,14 @@
 </p>
 
 <p align="center">
-  <a href="https://kartal.archi">kartal.archi</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:admin@kartal.archi">admin@Kartal.Archi</a>
+  <a href="https://kartal.archi">↗ kartal.archi</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:admin@kartal.archi">✉ admin@Kartal.Archi</a>
 </p>
 
-<br/>
+---
+
+### Selected Projects
 
 ### Selected Projects
 
