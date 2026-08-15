@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./kartal-symbol-white.png" width="72" alt="Kartal Symbol" />
+  <img src="./kartal-symbol-white.png.svg" width="72" alt="Kartal Symbol" />
 </p>
 
 <h1 align="center">KartalOps</h1>
