@@ -50,10 +50,21 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kartalops&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartalops&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    height="165"
+    src="./profile/stats.svg"
+    alt="Kartalops GitHub Stats"
+  />
+  <img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Kartalops Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartalops&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="./profile/streak.svg"
+    alt="Kartalops GitHub Streak"
+  />
 </p>
