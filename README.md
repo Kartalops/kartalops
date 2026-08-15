@@ -1,8 +1,11 @@
 <h1 align="center">KartalOps</h1>
 
 <p align="center">
-  <strong>DevOps & Product Architect</strong><br/>
-  Building agentic systems, server tooling, and developer workflows.
+  <strong>DevOps · Product Architecture · Agentic Systems</strong>
+</p>
+
+<p align="center">
+  Building developer infrastructure, intelligent tooling, and systems designed to scale.
 </p>
 
 <p align="center">
@@ -10,41 +13,41 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hi@arvuno.xyz">
-    <img src="https://img.shields.io/badge/Mail-hi%40arvuno.xyz-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arvuno?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://kartal.archi">kartal.archi</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:admin@kartal.archi">admin@Kartal.Archi</a>
 </p>
 
----
+<br/>
 
 ### Selected Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Cheri CLI</h3>
-      <p>Workspace sync for faster collaborative development.</p>
+    <td width="50%" valign="top">
+      <strong>★ Turpan</strong>
+      <br/><br/>
+      Autonomous code review and engineering intelligence.
     </td>
-    <td width="50%">
-      <h3>Shelby MCP</h3>
-      <p>Local-first MCP server for agentic workflows.</p>
+    <td width="50%" valign="top">
+      <strong>★ MirrorUI</strong>
+      <br/><br/>
+      Intelligent interface reconstruction and design tooling.
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>KOMU CLI</h3>
-      <p>AI-powered SSH operations for server teams.</p>
+    <td width="50%" valign="top">
+      <strong>★ Karbone</strong>
+      <br/><br/>
+      Modern infrastructure and developer automation platform.
     </td>
-    <td width="50%">
-      <h3>BaseJump</h3>
-      <p>AI-ready workflow layer for Base projects.</p>
+    <td width="50%" valign="top">
+      <strong>★ DataC0</strong>
+      <br/><br/>
+      Data infrastructure and analytics systems for modern teams.
     </td>
   </tr>
 </table>
-
 ---
 
 ### GitHub Stats
