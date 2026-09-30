@@ -2,7 +2,7 @@
   <img src="./eagle.png" width="72" alt="Kartal Symbol" />
 </p>
 
-<h1 align="center">KartalOps</h1>
+<h1 align="center">Penniger</h1>
 
 <p align="center">
   <strong>DevOps · Product Architecture · Agentic Systems</strong>
